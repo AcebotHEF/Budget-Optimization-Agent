@@ -1,0 +1,20 @@
+# Python cache files (generated automatically)
+__pycache__/
+*.pyc
+
+# Virtual Environment folders
+venv/
+env/
+.venv/
+
+# Environment Variables (NEVER commit this!)
+.env
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# VS Code settings (optional, keeps your personal settings local)
+.vscode/
+
+# Mac OS system files
+.DS_Store
